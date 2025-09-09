@@ -1,0 +1,49 @@
+AERIAL VIEW - PROPERTY LOCATION: A high-resolution aerial view of a 2-acre mixed-use property in Rancho Cordova, California, showing the surrounding neighborhood, Folsom Boulevard, and nearby amenities.
+EXISTING HOTEL FACILITY: A modern, operational hotel building occupying half of a property, with parking and landscaping, in a suburban California setting.
+DEVELOPMENT AREA: A vacant, well-maintained plot of land ready for development, adjacent to an existing hotel, with clear boundaries and visible access roads.
+FRONT EXTERIOR RENDERING: Architectural rendering of a two-story extended stay hotel, contemporary design, with welcoming entrance, landscaping, and signage reading "Blossom Village".
+SIDE ELEVATION RENDERING: Side view architectural rendering of a two-story hotel building, showing parking lot, cars, and landscaped areas.
+LANDSCAPING & ENTRANCE: Professional landscaping and main entrance of a modern extended stay hotel, with trees, flowers, and a stylish walkway.
+DETAILED FLOOR PLAN: Floor plan illustration of a 400 sq ft studio extended stay unit, showing office workspace, kitchenette, living/sleeping area, walk-in closet, and full bathroom.
+COMMUNITY LOUNGE RENDERING: Interior rendering of a spacious community lounge and co-working space, with modern furniture, large windows, and people working or relaxing.
+FITNESS CENTER RENDERING: Interior rendering of a professional fitness center, with gym equipment, mirrors, and bright lighting, sized for 800 sq ft.
+BUSINESS CENTER RENDERING: Interior rendering of a business center with a coffee bar, workstations, and a welcoming atmosphere for guests.
+
+1.Prompt:
+A high-resolution aerial view of a 2-acre mixed-use property in Rancho Cordova, California, with clear boundaries outlined. The property is located along Folsom Boulevard, surrounded by suburban homes, commercial buildings, and tree-lined streets. Visible landmarks include nearby churches, schools, and a major highway in the background. The image should show the existing hotel facility on half the property and a vacant lot on the other half, with cars in the parking lot and lush landscaping. The setting is sunny, with blue skies and a vibrant, welcoming atmosphere.
+
+2.Prompt:
+A realistic, high-resolution image of a modern, operational hotel facility occupying a 2-acre property in Rancho Cordova, California. 
+The hotel features a contemporary two-story design with a welcoming entrance, large windows, and a well-maintained parking lot with several cars. 
+The building is surrounded by lush landscaping, including green lawns, trees, and flower beds. The setting is suburban, with neighboring homes and 
+commercial buildings visible in the background, and clear blue skies overhead. The atmosphere is vibrant and inviting, emphasizing the hotel’s active 
+operation and curb appeal.
+
+3. not applicable
+
+4.Architectural rendering of a modern, two-story extended stay hotel in a suburban California setting. The building features a contemporary design with clean lines, 
+large windows, and a welcoming entrance with a covered drop-off area. The exterior is finished in neutral tones with accent materials such as stone and wood. 
+Lush landscaping surrounds the hotel, including manicured lawns, colorful flower beds, and mature trees. The entrance is highlighted by stylish outdoor lighting and a 
+pathway leading to the main doors. Prominently displayed above the entrance is a sign reading "Blossom Village" in elegant, illuminated lettering. 
+Several guests are visible arriving or departing, and a few cars are parked in the lot. The scene is set on a sunny day with blue skies, 
+creating a vibrant and inviting atmosphere.
+
+5. 
+Side view architectural rendering of a modern, two-story extended stay hotel located in Sacramento, California. The building features a contemporary design with clean lines,
+ large windows, and neutral exterior colors accented by natural stone and wood elements. The hotel is surrounded by lush, drought-tolerant landscaping typical of
+  Northern California, including native grasses, flowering shrubs, and mature shade trees. The parking lot is well-organized, with several cars parked and clear pedestrian
+   walkways. The setting includes glimpses of neighboring suburban buildings and distant Sierra Nevada foothills under a bright, sunny sky. The overall atmosphere is 
+   vibrant, welcoming, and distinctly Californian, reflecting the region’s blend of urban convenience and natural beauty.
+
+   6.Professional landscaping and main entrance of a modern extended stay hotel in Sacramento, California. The entrance features a wide, 
+   stylish walkway made of decorative pavers, bordered by vibrant flower beds and native California plants. Mature shade trees and ornamental shrubs frame the path, 
+   while drought-tolerant grasses and succulents add texture and color. The hotel’s facade is contemporary, with large glass doors, elegant outdoor lighting, and a 
+   covered entryway. Benches and planters provide a welcoming atmosphere, and guests are seen arriving or relaxing near the entrance. The landscaping is lush yet 
+   sustainable, reflecting the region’s climate and commitment to eco-friendly design. The scene is set on a sunny day with clear blue skies, creating an inviting and 
+   upscale curb appeal.
+
+8.Interior rendering of a spacious community lounge and co-working space in a modern extended stay hotel in Sacramento, California. The lounge features contemporary 
+furniture, including comfortable sofas, armchairs, and communal tables with ergonomic chairs. Large floor-to-ceiling windows fill the space with natural light and offer 
+views of landscaped gardens outside. The decor includes warm wood accents, stylish lighting fixtures, and vibrant artwork inspired by California’s natural beauty. Several 
+guests are seen working on laptops, reading, or socializing in small groups, creating a lively yet relaxed atmosphere. The space includes a coffee bar with barista service,
+ potted plants, and charging stations for devices. The overall ambiance is welcoming, productive, and upscale, reflecting the region’s blend of innovation and hospitality.
